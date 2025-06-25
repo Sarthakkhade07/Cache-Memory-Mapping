@@ -1,1 +1,2 @@
-# Memory-Mapping
+# Cache Mapping Simulator 
+Developed a modular cache simulation tool in C that implements and compares three fundamental cache mapping techniques: Direct Mapping, Set-Associative Mapping (with FIFO), and Fully Associative Mapping (with FIFO). The simulator accepts configurable parameters such as cache size, block size, memory size, and memory access patterns, and reports cache hits, misses, and hit rate for each strategy. Organized the project into separate folders for each mapping type to ensure clarity and modularity.
